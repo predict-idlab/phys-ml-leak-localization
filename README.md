@@ -1,5 +1,8 @@
 # Replication code for 'Probabilistic leak localization in water distribution networks using a hybrid data-driven and model-based approach'
 
+### Author
+Ganjour Mazaev
+
 ### Methods Used
 * Machine learning
 * Data visualization
@@ -23,4 +26,4 @@
 7. Use ```pytest``` to run the unit tests in [tests](tests).
 
 ## Contact
-* [REDACTED]
+* ganjour.mazaev@ugent.be, sofie.vanhoecke@ugent.be
